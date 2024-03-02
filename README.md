@@ -16,3 +16,5 @@ Welcome to the Across The Globe Blog Website! This project is built using HTML, 
 8. **Analytics Integration:** Utilize analytics tools to gain insights into user behavior and improve the website.
 
 ## Installation
+Clone code:
+https://github.com/Janhavi30052002/ATG-BLOG.git
